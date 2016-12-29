@@ -1,0 +1,129 @@
+
+
+#table1{
+	border:1px solid black;
+	margin: 0 auto;
+}
+
+#header{
+  border:2px solid white;  
+}
+#footer{
+ border:2px solid white;
+}
+
+
+#table2{
+height: 100px;
+}
+
+.left{
+border-right: 1px solid #424242;
+background-color:#DEB887;
+} 
+#content{
+	padding: 10px;
+	font: 13px  verdana;
+	background-color:Wheat;
+}
+
+.strong{
+	font: 22px bold italic 
+}
+
+
+.nav_title{
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 5%;
+	margin-right: 5%;
+	font-weight:bold;
+	text-align: center;
+	border-bottom: 1px solid black;
+	border-left: 4px solid red;
+}
+
+.nav_categories{
+	
+	margin-left: 5%;
+	margin-right: 5%;
+	color:#333333;
+	font-size: 14px;
+}
+
+.all_date{
+	border:1px solid red;
+	background-color:#DEB887;
+	position: relative;
+}
+
+.href{
+	font: 24px bold verdana;
+}
+
+.author{
+	position: absolute;
+	bottom:10px;
+	left:10px;
+	color:	#2F4F4F;
+	font: 14px bold verdana;
+
+}
+
+.view{
+	margin:10px;
+	color:black;
+
+}
+
+.date{
+	position: absolute;
+	bottom:10px;
+	right:0;
+	color:#2F4F4F;
+		font: 14px bold verdana;
+
+}
+
+
+.img_data{
+	margin:5px;
+	float: left;
+	border:1px solid black;
+}
+
+.post{
+	border:1px solid black;
+}
+
+.title_post{
+text-align: center;
+font:30px bold verdana;
+color:blue;
+}
+
+
+.e1{
+	color:blue;
+	font: 20px bold verdana;
+
+}
+
+.comments{
+	border: 1px solid blue;
+}
+
+.author_comments{
+	color:blue;
+}
+
+
+
+
+
+.nav_t{
+	border-top: 3px solid red;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+

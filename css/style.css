@@ -1,0 +1,267 @@
+
+
+#table1{
+	border:1px solid black;
+	margin: 0 auto;
+}
+
+#header{
+  border:2px solid white;  
+}
+#footer{
+ border:2px solid white;
+}
+
+
+#table2{
+height: 100px;
+}
+
+.left{
+border-right: 1px solid #424242;
+background-color:#DEB887;
+} 
+#content{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font: 13px  verdana;
+	background-color:Wheat;
+}
+
+.strong{
+	font: 22px bold italic 
+}
+
+
+.nav_title{
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 5%;
+	margin-right: 5%;
+	font-weight:bold;
+	text-align: center;
+	border-bottom: 1px solid black;
+	border-left: 4px solid red;
+}
+
+.nav_categories{
+	
+	margin-left: 5%;
+	margin-right: 5%;
+	color:#333333;
+	font-size: 14px;
+}
+
+.all_date{
+	border:1px solid red;
+	background-color:#DEB887;
+	position: relative;
+	width: 508px;
+	padding-right: 10px;
+}
+
+.href{
+	font: 24px bold verdana;
+}
+
+.author{
+	position: absolute;
+	bottom:10px;
+	left:10px;
+	color:	#2F4F4F;
+	font: 14px bold verdana;
+
+}
+
+.view{
+	margin:10px;
+	color:black;
+
+}
+
+.date{
+	position: absolute;
+	bottom:10px;
+	right:0;
+	color:#2F4F4F;
+		font: 14px bold verdana;
+
+}
+
+
+.img_data{
+	margin:5px;
+	float: left;
+	border:1px solid black;
+}
+
+.post{
+	border:1px solid black;
+}
+
+.title_post{
+text-align: center;
+font:30px bold verdana;
+color:blue;
+}
+
+
+.text_text{
+width: 508px;
+border:1px solid black;
+}
+
+
+
+.e1{
+	color:blue;
+	font: 20px bold verdana;
+
+}
+
+.comments{
+	border: 1px solid blue;
+}
+
+.author_comments{
+	color:blue;
+}
+
+.nav_t{
+	border-left: 1px solid 	black;
+	border-top: 6px solid 	red;
+	border-right: 1px solid 	black;
+	border-bottom: 1px solid 	black;
+height:50px;
+background-color: #DEB887;
+
+text-align: center;
+
+}
+
+.nav_t a {
+	
+	color: 	black;
+	font: 20px bold verdana;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav_e{
+	border-left: 1px solid 	black;
+	border-top: 6px solid 	red;
+	border-right: 1px solid 	black;
+	border-bottom: 1px solid 	black;
+height:50px;
+background-color: #DEB887;
+
+text-align: center;
+
+}
+
+.nav_e a {
+	
+	color: 	red;
+	font: 20px bold verdana;
+}
+
+
+
+
+/*Стилі навігації панелі*/
+
+.pstrnav {
+	padding: 0px 10px 20px 15px;
+	color:#424242;
+}
+
+.pstrnav a{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:11px;color:#245E93; text-decoration:underline;
+}
+
+
+
+
+
+
+
+
+.vote{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border:1px solid black;
+	padding: 7px;
+}
+
+
+
+.register{
+	color:#333333;
+	background-color:Wheat;
+	
+
+}
+
+#reg{
+	background-color: #DEB887;
+	border-radius: 6px;
+	width: 200px;
+	height: auto;
+	padding: 10px;
+	margin: 10px;
+
+
+	padding-left: 10px;
+	padding-bottom: 10px;
+	font: 12px bold verdana;
+
+}
+
+
+.auto_t{
+	font: 20px bold verdana;
+	padding-left: 10px;
+}
+
+
+.register_url{
+	text-decoration: none;
+	color: black;
+}
+
+.wrong{
+	color:red;	
+}
+.right{
+	color: green;
+}
+
+
+
+/*для авторизації*/
+
+.reg{
+	background-color: #DEB887;
+	border-radius: 6px;
+	padding: 5px;
+	width: 180px;
+	height: auto;
+}
+
+.cookie{
+	padding: 10px;
+	color:green;
+	font: 17px bold verdana;
+}
